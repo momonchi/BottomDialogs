@@ -1,4 +1,4 @@
-package com.github.javiersantos.bottomdialogs;
+package com.github.momonchi.bottomdialogs;
 
 import android.annotation.TargetApi;
 import android.content.Context;
