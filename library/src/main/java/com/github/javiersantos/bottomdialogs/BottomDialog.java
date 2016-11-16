@@ -64,10 +64,12 @@ public class BottomDialog {
         }
 
         if (builder.title != null) {
+            vTitle.setVisibility(View.GONE);
             vTitle.setText(builder.title);
         }
 
         if (builder.content != null) {
+            vContent.setVisibility(View.GONE);
             vContent.setText(builder.content);
         }
 
