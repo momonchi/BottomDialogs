@@ -1,4 +1,4 @@
-package com.github.javiersantos.bottomdialogs;
+package com.github.momonchi.bottomdialogs;
 
 import android.app.Dialog;
 import android.content.Context;
