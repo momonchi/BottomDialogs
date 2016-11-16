@@ -1,4 +1,4 @@
-package com.github.javiersantos.bottomdialogs.demo;
+package com.github.momonchi.bottomdialogs.demo;
 
 import android.os.Bundle;
 
